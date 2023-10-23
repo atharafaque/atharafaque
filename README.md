@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **HTML,CSS,JS,REACT,MERN**
 
-- 👨‍💻 All of my projects are available at [https://atharafaque-portfolio.netlify.app/#](https://atharafaque-portfolio.netlify.app/#)
+- 👨‍💻 All of my projects are available at [https://atharafaque-psi.vercel.app/]
 
 - 📫 How to reach me **afaque.athar3@gmail.com**
 

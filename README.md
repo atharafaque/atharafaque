@@ -14,7 +14,7 @@
 <p align="center"> 🌱 Currently learning HTML, CSS, JavaScript, React, and MERN stack </p>
 <p align="center"> 👨‍💻 All projects available at <a href="https://athar-afaque-portfolio.vercel.app/">Portfolio</a> </p>
 <p align="center"> 📫 Reach me at afaque.athar3@gmail.com </p>
-<p align="center"> 📄 Know more about my experiences <a href="https://drive.google.com/file/d/1d1w2LccYCYsdcsjYa93vJL-Cbt04hy2y/view?usp=share_link">here</a> </p>
+<p align="center"> 📄 Know more about my experiences <a href="https://drive.google.com/file/d/1SAvY6FOsowzUWPqvvE7lVBG319GZ1Vjy/view?usp=sharing">here</a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">

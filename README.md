@@ -64,13 +64,21 @@ Explore more projects on my [GitHub repositories](https://github.com/atharafaque
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atharafaque&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atharafaque&layout=compact&theme=tokyonight&hide_border=true)
+## 📊 GitHub Statistics
 
-![GitHub Streak](https://streak-stats.demolab.com?user=atharafaque&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atharafaque&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharafaque&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+</p>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=atharafaque&theme=tokyonight&no-frame=true&row=1&column=6)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=atharafaque&theme=tokyonight&hide_border=true" width="75%" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=atharafaque&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" alt="GitHub Trophies" />
+</p>
 
 ---
 

@@ -65,8 +65,6 @@ Explore more projects on my [GitHub repositories](https://github.com/atharafaque
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atharafaque&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atharafaque&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=atharafaque&theme=tokyonight&hide_border=true)

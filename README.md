@@ -49,19 +49,6 @@ I'm a passionate Full Stack Developer focused on building responsive, scalable, 
 
 ---
 
-## 💡 Featured Projects
-
-| Project | Description | Technologies |
-|---|---|---|
-| Survey Management System | Survey creation, question validation, assignments and response management | React, Node.js, Supabase, Android |
-| Playlist Application | Modern music playlist interface | React, Vite |
-| E-Commerce Application | Responsive shopping experience | React, JavaScript |
-| Weather Application | Real-time weather information interface | React, API |
-
-Explore more projects on my [GitHub repositories](https://github.com/atharafaque?tab=repositories).
-
----
-
 
 ## 📊 GitHub Statistics
 
